@@ -27,20 +27,19 @@ Make sure you have these installed:
 
 1. Clone the repository:
 
-  &nbsp; git clone [https://github.com/aryanpatel2002/ML-Model-Price-Predictor.git](https://github.com/aryanpatel2002/ML-Model-Price-Predictor.git)
+git clone [https://github.com/aryanpatel2002/ML-Model-Price-Predictor.git](https://github.com/aryanpatel2002/ML-Model-Price-Predictor.git)
 
 2. Navigate to the project directory:
 
-  cd ML-Model-Price-Predictor
+cd ML-Model-Price-Predictor
 
 
 3. Follow below steps
 
-  Open the relevant notebook (Real_Estate_Price_Predictor.ipynb) to explore the interactive workflow, including data handling, feature engineering, and model building.
+Open the relevant notebook (Real_Estate_Price_Predictor.ipynb) to explore the interactive workflow, including data handling, feature engineering, and model building.
+Follow the instructions in the notebook to execute the ML workflow and view results.
 
-  Follow the instructions in the notebook to execute the ML workflow and view results.
-
-### Acknowledgments
+## Acknowledgments
 
 - [scikit-learn](https://scikit-learn.org/) - For providing machine learning algorithms.
 - [pandas](https://pandas.pydata.org/) - For data manipulation and analysis.
