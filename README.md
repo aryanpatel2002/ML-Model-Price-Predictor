@@ -36,7 +36,7 @@ cd ML-Model-Price-Predictor
 
 3. Follow below steps
 
-Open the relevant notebook (Real_Estate_Price_Predictor.ipynb) to explore the interactive workflow, including data handling, feature engineering, and model building.
+Open the relevant notebook (Aryan Real Estates.ipynb) to explore the interactive workflow, including data handling, feature engineering, and model building.
 Follow the instructions in the notebook to execute the ML workflow and view results.
 
 ## Acknowledgments
