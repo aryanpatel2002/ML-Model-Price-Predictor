@@ -23,7 +23,7 @@ Make sure you have these installed:
 * pip (Python package installer)
 * Jupyter Notebook
 
-### Installation
+## Installation
 
 1. Clone the repository:
 
@@ -34,7 +34,7 @@ Make sure you have these installed:
   cd ML-Model-Price-Predictor
 
 
-4. Follow below steps
+3. Follow below steps
 
   Open the relevant notebook (Real_Estate_Price_Predictor.ipynb) to explore the interactive workflow, including data handling, feature engineering, and model building.
 
